@@ -248,6 +248,7 @@ button{
 section{
   display: block;
   position: relative;
+  
 }
 h1 {
   font-size: 2em;
@@ -354,7 +355,13 @@ h1 {
     color: rgb(233, 14, 14);
   }
 
+  .parent {
+   
+    display: list-item;
+   
+  }
 
+  
 
 
 }
